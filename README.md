@@ -1,4 +1,4 @@
-# Swiggy-Sales-Analytics-Dashboard# 🍔 Swiggy Data Analysis Project
+# Swiggy-Sales-Analytics-Dashboard#
 
 ## 📌 Project Overview
 
