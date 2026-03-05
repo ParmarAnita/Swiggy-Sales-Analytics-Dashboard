@@ -1,4 +1,4 @@
-🍔 Swiggy Data Analysis Project
+# 🍔 Swiggy Data Analysis Project
 
 ## 📌 Project Overview
 
