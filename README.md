@@ -59,14 +59,6 @@ The dataset contains information about:
 
 ---
 
-## 📁 Project File
-
-The complete Excel analysis file is included in this repository:
-
-`Swiggy Project.xlsx`
-
----
-
 ## 👩‍💻 Author
 
 **Anita Parmar**
